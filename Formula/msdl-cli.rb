@@ -1,4 +1,4 @@
-class Msdl < Formula
+class MsdlCli < Formula
   desc "Download Windows ISO files directly from Microsoft's servers"
   homepage "https://msdl.tech-latest.com"
   version "0.3.5"
